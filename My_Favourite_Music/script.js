@@ -29,10 +29,28 @@ const app = {
   // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
   songs: [
     {
+      name: "Hơn cả mây trời",
+      singer: "Như Việt",
+      path: "https://www.mboxdrive.com/yt5s.com%20-%20Vi%E1%BB%87t%20-%20H%C6%A1n%20C%E1%BA%A3%20M%C3%A2y%20Tr%E1%BB%9Di%20(Lofi%20ver%20by%20Hawys)%20(128%20kbps).mp3",
+      image: "https://i.ibb.co/F5SypCn/Avatar.png"
+    },
+    {
+      name: "Chỉ muốn bên em thật gần",
+      singer: "YLing",
+      path: "https://www.mboxdrive.com/yt5s.com%20-%20Ch%E1%BB%89%20Mu%E1%BB%91n%20B%C3%AAn%20Em%20Th%E1%BA%ADt%20G%E1%BA%A7n%20-%20YLing%E3%80%8CNekko%20%20Remix%E3%80%8D_%20Audio%20Lyrics%20Video%20(128%20kbps).mp3",
+      image: "https://i.imgur.com/EzSokND.jpg"
+    },
+    {
+      name: "Lone Ranger",
+      singer: "Rachel Platten",
+      path: "https://www.mboxdrive.com/yt5s.com%20-%20Lone%20Ranger%20-%20Rachel%20Platten%20(Lyrics%20+%20Vietsub)%20__%20TikTok%20%E2%99%AB%20(128%20kbps).mp3",
+      image: "https://i.imgur.com/lch05wf.jpg"
+    },
+    {
       name: "Larg",
       singer: "Elgit Doda",
-      path: "https://dl4.soundcloudmp3.org/api/download/eyJpdiI6InRwZFNEa1J5Skw3UFNEWVI1dWhxMlE9PSIsInZhbHVlIjoiMUltRW9mUjd4WFl1V1VMSEZMeTAwcXNWXC9MSk1ZenJJN2VKSWRrSUNreFpHZzNQdEZcLzNjN1wva0g3Q0pvb1ZJeXFNWGg4ZkFmaDNpdlR5TVVsTCtNWldPa256dHVhakl1Q0hSK2JtNlVpWXR0STE2N3N6dm50aUxhTmlIYXE1WE1Hd080Mlp4eDVkbklnKytMY0tmeU40SWM2MEVWSVFqN3VzUnlYdVc3TURrPSIsIm1hYyI6Ijk2NjkzMGNkNDE0OGYxNDZhMzk4NGI5ZThkZGU1YTZiMDllYmY4ZmFhYzBlMzBlZmY3NTkyMWRiYzg2NmQzODUifQ==",
-      image: "https://pngset.com/images/anime-shhh-sad-anime-silence-cartoon-jingfm-sad-anime-boy-manga-comics-book-person-transparent-png-2613803.png"
+      path: "https://www.mboxdrive.com/yt5s.com%20-%20LARG%20-%20ELGIT%20DODA%20%7C%7C%20NH%E1%BA%A0C%20HOT%20TIKTOK%20TRUNG%20%7C%7C%20Tik%20Tok%20–%20%E2%84%A2%20MUSIC%20(128%20kbps).mp3",
+      image: "https://i.imgur.com/DkI2ySA.jpg"
     },
     {
       name: "Tu Phir Se Aana",
