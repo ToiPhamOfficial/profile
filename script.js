@@ -28,6 +28,7 @@ const app = {
   // (1/2) Uncomment the line below to use localStorage
   // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
   songs: [
+    //Phần nhạc Việt
     {
       name: "Hơn cả mây trời",
       singer: "Như Việt",
@@ -52,6 +53,9 @@ const app = {
       path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Anh%20Se%CC%83%20%C4%90o%CC%81n%20Em%20-%20Nguye%CC%82n%20x%20Trang.mp3?raw=true",
     image: "https://i.imgur.com/qY7Edpp.jpg"
     },
+    
+    
+//Phàn nhạc Uk-US
     {
       name: "Fade",
       singer: "Alan Walker",
