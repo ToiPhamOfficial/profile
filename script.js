@@ -81,10 +81,6 @@ const app = {
       image: "https://i.imgur.com/dowzPFL.jpg"
     },
     {
-      name: "Hello",
-      singer: "hhcxx"
-    },
-    {
       name: "Infinity",
       singer: "Korad Mil",
       path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Infinity%20-%20Korad%20Mil.mp3?raw=true",
