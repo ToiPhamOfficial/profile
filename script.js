@@ -84,7 +84,7 @@ const app = {
       name: "Infinity",
       singer: "Korad Mil",
       path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Infinity%20-%20Korad%20Mil.mp3?raw=true",
-      image: "https://github.com/ToiPhamOfficial/my_music/raw/main/Upload%20Files/Images/20221023_133752.png"
+      image: "https://github.com/ToiPhamOfficial/my_music/raw/main/Upload%20Files/Images/artworks-000358253136-lmjt1p-t500x500.jpg"
     },
     {
       name: "Safari",
