@@ -80,7 +80,9 @@ const app = {
       path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/A%20Y%20Ma%CC%A3c%20-%20To%CC%82%CC%89%20Ho%CC%9B%CC%A3p%20A%20Ca%CC%81t%20Tha%CC%81i.mp3?raw=true",
       image: "https://i.imgur.com/dowzPFL.jpg"
     },
-    {},
+    {
+      name: "Hello"
+    },
     {
       name: "Infinity",
       singer: "Korad Mil",
