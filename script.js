@@ -55,7 +55,7 @@ const app = {
     },
     
     
-//Phàn nhạc Uk-US
+//Phần nhạc Uk-US
     {
       name: "Fade",
       singer: "Alan Walker",
@@ -81,7 +81,8 @@ const app = {
       image: "https://i.imgur.com/dowzPFL.jpg"
     },
     {
-      name: "Hello"
+      name: "Hello",
+      singer: "hhcxx"
     },
     {
       name: "Infinity",
