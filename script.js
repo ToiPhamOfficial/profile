@@ -90,7 +90,7 @@ const app = {
       singer: "Serena",
       path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Safari%20-%20Serena.mp3?raw=true",
       image: "https://github.com/ToiPhamOfficial/profile/raw/main/Upload%20Files/Images/IMG_1917.JPG"
-    },
+    }
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
