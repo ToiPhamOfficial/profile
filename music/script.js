@@ -34,7 +34,7 @@ const app = {
   config: {},
   // (1/2) Uncomment the line below to use localStorage
   // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
-  songs: ,
+  songs:
   [
     //Phần nhạc Việt
     {
