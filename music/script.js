@@ -47,38 +47,38 @@ const app = {
     {
       name: "Fade",
       singer: "Alan Walker",
-      path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Faded%20-%20Alan%20Walker.mp3?raw=true",
-      image: "https://github.com/ToiPhamOfficial/profile/blob/main/music/files/music_files/Faded%20-%20Alan%20Walker.mp3?raw=true"
+      path: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/music_files/Faded%20-%20Alan%20Walker.mp3",
+      image: "https://raw.githubusercontent.com/ToiPhamOfficial/profile/main/music/files/image_files/iEdPQYS_d.webp"
     },
     {
       name: "Lone Ranger",
       singer: "Rachel Platten",
-      path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Lone%20Ranger%20-%20Rachel%20Platten.mp3?raw=true",
-      image: "https://github.com/ToiPhamOfficial/profile/blob/main/music/files/music_files/Lone%20Ranger%20-%20Rachel%20Platten.mp3?raw=true"
+      path: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/music_files/Lone%20Ranger%20-%20Rachel%20Platten.mp3",
+      image: "https://raw.githubusercontent.com/ToiPhamOfficial/profile/main/music/files/image_files/lch05wf_d.webp"
     },
     {
       name: "Larg",
       singer: "Elgit Doda",
-      path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Larg%20-%20Elgit%20Doda.mp3?raw=true",
-      image: "https://github.com/ToiPhamOfficial/profile/blob/main/music/files/music_files/Larg%20-%20Elgit%20Doda.mp3?raw=true"
+      path: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/music_files/Larg%20-%20Elgit%20Doda.mp3",
+      image: "https://raw.githubusercontent.com/ToiPhamOfficial/profile/main/music/files/image_files/c5ZxY5G_d.webp"
     },
     {
       name: "A Y Mạc",
       singer: "Tổ Hợp A Cát Thái",
-      path: "https://github.com/ToiPhamOfficial/profile/blob/main/music/files/music_files/A%20Y%20Ma%CC%A3c%20-%20To%CC%82%CC%89%20Ho%CC%9B%CC%A3p%20A%20Ca%CC%81t%20Tha%CC%81i.mp3?raw=true",
+      path: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/music_files/A%20Y%20Ma%CC%A3c%20-%20To%CC%82%CC%89%20Ho%CC%9B%CC%A3p%20A%20Ca%CC%81t%20Tha%CC%81i.mp3",
       image: "https://github.com/ToiPhamOfficial/profile/blob/main/music/files/image_files/dowzPFL_d.webp?raw=true"
     },
     {
       name: "Infinity",
       singer: "Korad Mil",
-      path: "https://github.com/ToiPhamOfficial/profile/blob/main/music/files/music_files/Infinity%20-%20Korad%20Mil.mp3?raw=true",
+      path: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/music_files/Infinity%20-%20Korad%20Mil.mp3",
       image: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/image_files/artworks-000358253136-lmjt1p-t500x500.jpg"
     },
     {
       name: "Safari",
       singer: "Serena",
-      path: "https://github.com/ToiPhamOfficial/profile/blob/main/Upload%20Files/Safari%20-%20Serena.mp3?raw=true",
-      image: "https://github.com/ToiPhamOfficial/profile/blob/main/music/files/music_files/Safari%20-%20Serena.mp3?raw=true"
+      path: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/music_files/Safari%20-%20Serena.mp3",
+      image: "https://github.com/ToiPhamOfficial/profile/raw/main/music/files/image_files/IMG_1917.JPG"
     }
   ],
   render: function () {
